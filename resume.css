@@ -1,0 +1,16 @@
+.timespan {
+  float: right;
+}
+
+h3~p {
+  margin-left: 16%;
+  padding: 0;
+  display: block;
+  font-size: 104%;
+  line-height: 24px;
+  width: 84%;
+}
+
+h3+p {
+  margin-left: inherit;
+}
