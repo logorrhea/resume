@@ -17,6 +17,7 @@
 6. AngularJS
 7. Relational DBs
 8. *nix
+9. Vim
 
 ---
 
