@@ -37,6 +37,10 @@
     Worked with several APIs to provide additional functionality to enterprise apps.
     **Technical Environment** PHP, Apache2, Drupal, Ruby on Rails, Perl, ColdFusion
 
+**Champaign, IL Fire Department** *Contract* <span class="timespan">January 2014</span>
+    Worked with the department to determine the most cost-effective and timely way to re-work their evaluation process.
+    Created several PDF evaluation forms for the evaluators to fill out and return.
+
 ---
 
 ### Education
