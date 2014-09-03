@@ -2,7 +2,7 @@
 # Tyler Funk
 ## Journeyman Developer
 
-> [tfunk@fastmail.fm](tfunk@fastmail.fm)
+> [tfunk@fastmail.fm](mailto:tfunk@fastmail.fm)
 > (217) 649-9554
 
 ---
