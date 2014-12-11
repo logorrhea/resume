@@ -30,7 +30,7 @@
     Regularly provided Junior Developers with troubleshooting assistance.
     **Technical Environment** Groovy/Grails, Java, Tomcat, SVN, AngularJS
 
-**Hearland Dental Care** *Application Developer* <span class="timespan">March 2012 - August 2013</span>
+**Heartland Dental Care** *Application Developer* <span class="timespan">March 2012 - August 2013</span>
     Updated and maintained legacy applications using a smattering of languages.
     Implemented Java-based web services to centralize some commonly-used patterns.
     Created several Ruby on Rails applications from the ground up.
